@@ -1,0 +1,43 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+
+/* @tailwind base; */
+@tailwind components;
+@tailwind utilities;
+
+.footer {
+  background-color: #03404f;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+[data-theme='dark'] .footer {
+  background-color: #034a5b; 
+  color: white;
+}
+
+:root {
+  --ifm-color-primary: #03404f;
+  --ifm-color-primary-dark: #033a47;
+  --ifm-color-primary-darker: #033643;
+  --ifm-color-primary-darkest: #022d37;
+  --ifm-color-primary-light: #034657;
+  --ifm-color-primary-lighter: #034a5b;
+  --ifm-color-primary-lightest: #045367;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #7cc3d5;
+  --ifm-color-primary-dark: #62b7cd;
+  --ifm-color-primary-darker: #56b1c9;
+  --ifm-color-primary-darkest: #399ab3;
+  --ifm-color-primary-light: #96cfdd;
+  --ifm-color-primary-lighter: #a2d5e1;
+  --ifm-color-primary-lightest: #c9e6ee;
+}
