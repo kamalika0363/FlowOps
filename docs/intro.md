@@ -11,7 +11,7 @@ Explaination on this project **FlowOps**.
 - This project is a **work in progress**.
 - Needs considerable amount of time to be completed.
 - Heavily relies on **CI/CD** concepts.
-- Requires through understanding of **DevOps**.
+- Requires thorough understanding of **DevOps**.
 - Currently, the project is in **draft** phase.
 
 ## Purpose of the Project
