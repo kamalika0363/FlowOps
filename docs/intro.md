@@ -27,7 +27,7 @@ To scale the project, we might migrate with **AWS** or **Azure**.
 
 - The project will be using **Docker** for **containerization**.
 
-## Throught Process of the Project
+## Thought Process of the Project
 
 - Currently understanding the working of **Microsoft PromptFlow** which is used in ML.
 - The architecture of GitHub Actions to generate CI/CD workflow in the respository.
