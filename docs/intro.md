@@ -32,7 +32,7 @@ To scale the project, we might migrate with **AWS** or **Azure**.
 - Currently understanding the working of **Microsoft PromptFlow** which is used in ML.
 - The architecture of GitHub Actions to generate CI/CD workflow in the respository.
 
-## Need for the Project
+## Needs for the Project
 
 - The project came up while implementing **CI/CD** in a project.
 - The need for visualising the **CI/CD** pipelines was felt.
